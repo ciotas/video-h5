@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-af4e1f2e"],{"26ad":function(n,e,t){},a2d8:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{attrs:{id:"errorPage"}},[n._v("抱歉!该分销链接相关参数缺失，创建分销页面获取参数错误，分销页面创建失败，请重新获取分销链接。")])},c=[],r={},u=r,i=(t("d1b7"),t("2877")),s=Object(i["a"])(u,a,c,!1,null,"44c91c1c",null);e["default"]=s.exports},d1b7:function(n,e,t){"use strict";var a=t("26ad"),c=t.n(a);c.a}}]);
+//# sourceMappingURL=chunk-af4e1f2e.e7b0c37d.js.map
